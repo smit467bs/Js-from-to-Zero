@@ -1,1 +1,1 @@
-Gh page: 
+Gh page: https://smit467bs.github.io/Js-from-to-Zero/
